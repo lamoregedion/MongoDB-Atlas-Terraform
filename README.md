@@ -1,4 +1,4 @@
-# Provision MongoDB Atlas Clusters using Terraform
+# Provisioning MongoDB Atlas Clusters using Terraform
 Sample code to deploy MongoDB Atlas clusters using the Terraform [MongoDB Atlas Provider](https://www.terraform.io/docs/providers/mongodbatlas/index.html).
 
 Clone this repository
