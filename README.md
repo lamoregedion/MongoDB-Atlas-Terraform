@@ -3,7 +3,7 @@ Sample code to deploy MongoDB Atlas clusters using the Terraform [MongoDB Atlas 
 
 Clone this repository
 ```
-$ git clone https://github.com/wbleonard/terraform-atlas.git
+$ git clone https://github.com/lamoregedion/MongoDB-Atlas-Terraform.git
 ```
 
 Add a `terraform.tfvars` file with the following values. The [Programmatic API Keys](https://docs.atlas.mongodb.com/configure-api-access/#programmatic-api-keys) and [Organization](https://docs.atlas.mongodb.com/tutorial/manage-organizations/) Id are required. Optionally use the remaining values to override default values:
